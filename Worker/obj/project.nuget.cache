@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+yai+08lcKntaxGgO96DYj9i3xYApOrvG3WkcS2UNUmlTi3W9T8NF0M/X1ocTZ7AYYJgYj7dNn0Fi8QSRMm5g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ozgur\\source\\repos\\WorkerService\\Worker\\Worker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ozgur\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
